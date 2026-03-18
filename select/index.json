@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Doo Wop (That Thing)",
+  "base_artist": "Lauryn Hill",
+  "createdAt": "2026-03-18T18:26:09.201750Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Doo Wop (That Thing)",
+      "artist": "Quantic",
+      "has_synced": false,
+      "path": "select/01_Doo_Wop_(That_Thing)_Quantic.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Doo Wop (That Thing)",
+      "artist": "Lauryn Hill",
+      "has_synced": true,
+      "path": "select/02_Doo_Wop_(That_Thing)_Lauryn_Hill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Doo Wop (That Thing)",
+      "artist": "Angel Haze",
+      "has_synced": false,
+      "path": "select/03_Doo_Wop_(That_Thing)_Angel_Haze.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Doo Wop (That Thing)",
+      "artist": "Lauryn Hill",
+      "has_synced": true,
+      "path": "select/04_Doo_Wop_(That_Thing)_Lauryn_Hill.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Doo Wop (That Thing)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/05_Doo_Wop_(That_Thing)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Doo-Wop/That Thing",
+      "artist": "Lauryn Hill",
+      "has_synced": true,
+      "path": "select/06_Doo-Wop_That_Thing_Lauryn_Hill.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Doo Wop That Thing",
+      "artist": "Lauryn Hill",
+      "has_synced": true,
+      "path": "select/07_Doo_Wop_That_Thing_Lauryn_Hill.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Doo Wop (that Thing)",
+      "artist": "Lauryn Hill",
+      "has_synced": true,
+      "path": "select/08_Doo_Wop_(that_Thing)_Lauryn_Hill.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Doo Wop (That Thing)",
+      "artist": "Lauryn Hill",
+      "has_synced": false,
+      "path": "select/pl_01_Doo_Wop_(That_Thing)_Lauryn_Hill.txt"
+    }
+  ]
+}
